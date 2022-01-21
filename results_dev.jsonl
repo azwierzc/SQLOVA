@@ -1,0 +1,164 @@
+{"query": {"agg": 0, "sel": 5, "conds": [[3, 0, "3"]]}, "table_id": "1-10015132-11", "nlu": "W ilu szkołach grał gracz numer 3?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[3, 0, "21"]]}, "table_id": "1-10015132-11", "nlu": "W jakiej szkole grał zawodnik numer 21?"}
+{"query": {"agg": 0, "sel": 4, "conds": [[3, 0, "amir johnson"]]}, "table_id": "1-10015132-9", "nlu": "W jakiej drużynie szkolnej/klubowej jest Amir Johnson?"}
+{"query": {"agg": 0, "sel": 4, "conds": [[3, 0, "trey johnson"]]}, "table_id": "1-10015132-9", "nlu": "W jakiej drużynie szkolnej/klubowej jest Trey Johnson?"}
+{"query": {"agg": 0, "sel": 3, "conds": [[0, 0, "papiamento"]]}, "table_id": "1-1008653-1", "nlu": "Jak brzmi angielska nazwa kraju, którego oficjalnym językiem ojczystym jest holenderski papiamento?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[0, 0, "canberra"]]}, "table_id": "1-1008653-1", "nlu": "W jakich językach urzędowych lub ojczystych mówi się w kraju, którego stolicą jest Canberra?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[0, 0, "canberra"]]}, "table_id": "1-1008653-1", "nlu": "Jaka jest lokalna nazwa miasta Canberra?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[2, 0, "stolicy anguilli"]]}, "table_id": "1-1008653-1", "nlu": "Jaka jest lokalna nazwa nadana stolicy Anguilli?"}
+{"query": {"agg": 0, "sel": 6, "conds": [[2, 0, "9abx02 został pierwotnie wyemitowany"]]}, "table_id": "1-10088101-1", "nlu": "Odcinek z kodem produkcyjnym 9abx02 został pierwotnie wyemitowany w jakim dniu?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[0, 0, "powiecie leninskim?"]]}, "table_id": "1-10342194-3", "nlu": "Jaka jest całkowita ilość drzew w powiecie leninskim?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[0, 0, "dywizji otwartych pucharów"]]}, "table_id": "1-1046170-5", "nlu": "która runda to nas półfinały dywizji otwartych pucharów"}
+{"query": {"agg": 0, "sel": 3, "conds": [[6, 0, "4–7"]]}, "table_id": "1-1061075-1", "nlu": "jaka jest konkurencja, gdzie suma wynosi 4–7?"}
+{"query": {"agg": 0, "sel": 3, "conds": [[6, 0, "galatasaray"]]}, "table_id": "1-1061075-1", "nlu": "jaka jest pierwsza noga, w której przeciwnicy to galatasaray?"}
+{"query": {"agg": 0, "sel": 6, "conds": [[1, 0, "indianapolis 500"]]}, "table_id": "1-10706961-2", "nlu": "Która Rd odbyła się na Indianapolis 500?"}
+{"query": {"agg": 0, "sel": 6, "conds": [[1, 0, "warning 200"]]}, "table_id": "1-10706961-2", "nlu": "Jaki był najszybszy czas okrążenia w Escort Radar Warning 200?"}
+{"query": {"agg": 0, "sel": 8, "conds": [[4, 0, "12"]]}, "table_id": "1-10707176-2", "nlu": "Kto był pole position w rundzie równej 12?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[0, 0, "2000-2008 w etiopii"]]}, "table_id": "1-10733530-3", "nlu": "Jaki jest procent wzrostu w latach 2000-2008 w Etiopii?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[2, 0, "92,5% słoweńców w 1991 r"]]}, "table_id": "1-10798421-1", "nlu": "Podaj mi minimalną liczbę osób w 1991 r. z 92,5% Słoweńców w 1991 r."}
+{"query": {"agg": 0, "sel": 0, "conds": [[2, 0, "srednji kot."]]}, "table_id": "1-10798421-1", "nlu": "Podaj nazwy wsi (niemiecki) wchodzącej w skład wsi (słoweński) za pomocą sele srednji kot."}
+{"query": {"agg": 0, "sel": 8, "conds": [[0, 0, "12 listopada"]]}, "table_id": "1-10812293-3", "nlu": "Jaki był wynik gry 12 listopada?"}
+{"query": {"agg": 0, "sel": 8, "conds": [[0, 0, "4"]]}, "table_id": "1-10812293-3", "nlu": "Kto zdobył najwięcej punktów w grze 4?"}
+{"query": {"agg": 0, "sel": 8, "conds": [[0, 0, "20 listopada"]]}, "table_id": "1-10812293-3", "nlu": "Gdzie była gra 20 listopada?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[2, 0, "11 lutego 2008"]]}, "table_id": "1-10935205-1", "nlu": "Do jakiego numeru serii miała zastosowanie kanadyjska data emisji z 11 lutego 2008 r.?"}
+{"query": {"agg": 0, "sel": 6, "conds": [[2, 0, "2)”"]]}, "table_id": "1-10953197-5", "nlu": "Kto wyreżyserował odcinek „Great Sexpectations (2)”?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[3, 0, "2004 r. brał udział w wilfrid laurier"]]}, "table_id": "1-10975034-2", "nlu": "Który zawodnik z draftu CFL z 2004 r. brał udział w Wilfrid Laurier?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[3, 0, "leibl-cote"]]}, "table_id": "1-10975034-2", "nlu": "Na jakiej pozycji gra Christian Leibl-Cote?"}
+{"query": {"agg": 0, "sel": 4, "conds": [[0, 0, "47"]]}, "table_id": "1-10992-3", "nlu": "Jakie jest miasto, w którym jest numer 47?"}
+{"query": {"agg": 0, "sel": 4, "conds": [[2, 0, "lansjerów"]]}, "table_id": "1-11044765-1", "nlu": "W jakim mieście i stanie znajduje się maskotka Lansjerów?"}
+{"query": {"agg": 0, "sel": 4, "conds": [[2, 0, "górnicy"]]}, "table_id": "1-11044765-1", "nlu": "W jakim mieście i stanie znajdują się górnicy?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[1, 0, "2004"]]}, "table_id": "1-1121352-2", "nlu": "Gdzie jest margines zwycięstwa datowany na 28 marca 2004 r.?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[4, 0, "2007"]]}, "table_id": "1-11214772-2", "nlu": "Która drużyna była drugim półfinalistą w 2007 roku?"}
+{"query": {"agg": 0, "sel": 6, "conds": [[6, 0, "david coulthard z najszybszym okrążeniem, a mclaren - mercedes jako zwycięski konstruktor?"]]}, "table_id": "1-1132600-3", "nlu": "W której rundzie Michael Schumacher był na pole position, David Coulthard z najszybszym okrążeniem, a McLaren - Mercedes jako zwycięski konstruktor?"}
+{"query": {"agg": 0, "sel": 6, "conds": [[6, 0, "włoch"]]}, "table_id": "1-1132600-3", "nlu": "Ilu kierowców wygrało Grand Prix Włoch?"}
+{"query": {"agg": 0, "sel": 6, "conds": [[6, 0, "prix belgii"]]}, "table_id": "1-1132600-3", "nlu": "Jaka była relacja z Grand Prix Belgii?"}
+{"query": {"agg": 0, "sel": 6, "conds": [[6, 0, "belgii"]]}, "table_id": "1-1132600-3", "nlu": "Kto miał najszybsze okrążenie w Grand Prix Belgii?"}
+{"query": {"agg": 0, "sel": 4, "conds": [[0, 0, "10 miejscu w kalifornii"]]}, "table_id": "1-1134091-4", "nlu": "Kiedy zasiadał następca, gdy okręg był na 10 miejscu w Kalifornii?"}
+{"query": {"agg": 0, "sel": 1, "conds": [[6, 0, "sekcji uwag"]]}, "table_id": "1-11336756-6", "nlu": "Jaka jednostka długości jest używana dla trasy z „zastąpionym przez nas 81” w sekcji uwag?"}
+{"query": {"agg": 0, "sel": 1, "conds": [[8, 0, "9,287"]]}, "table_id": "1-11542215-3", "nlu": "Jaki jest łączny wynik, gdy wynik za ćwiczenia na podłodze wyniósł 9,287?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[0, 0, "woensdrechta"]]}, "table_id": "1-1160161-12", "nlu": "Które siły alianckie namierzyły Woensdrechta?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[0, 0, "75"]]}, "table_id": "1-1160304-2", "nlu": "Jaka była łączna liczba tygodni szczytu dla rankingu Ireland Albums Top 75?"}
+{"query": {"agg": 0, "sel": 6, "conds": [[2, 0, "624"]]}, "table_id": "1-11630008-8", "nlu": "Jaki jest tytuł odcinka z kodem produkcyjnym 624?"}
+{"query": {"agg": 0, "sel": 6, "conds": [[2, 0, "karen felix i dona woodarda"]]}, "table_id": "1-11630008-8", "nlu": "Jaka jest oryginalna data emisji odcinka, napisanego przez Karen Felix i Dona Woodarda?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[3, 0, "hartford"]]}, "table_id": "1-11734041-2", "nlu": "Jaki jest wzrost gracza, który uczęszczał do Hartford?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[3, 0, "uniwersytet południowy"]]}, "table_id": "1-11734041-9", "nlu": "Jaki jest numer gracza, który poszedł na Uniwersytet Południowy?"}
+{"query": {"agg": 0, "sel": 3, "conds": [[0, 0, "6"]]}, "table_id": "1-11764007-2", "nlu": "W którym tygodniu członek, który przybył na główną wyspę w tygodniu 6, został wysłany na trzecią wyspę?"}
+{"query": {"agg": 0, "sel": 3, "conds": [[0, 0, "4 tygodniu"]]}, "table_id": "1-11764007-2", "nlu": "Ilu członków przybyło na główną wyspę w 4 tygodniu?"}
+{"query": {"agg": 0, "sel": 1, "conds": [[0, 0, "japonii?"]]}, "table_id": "1-11800185-1", "nlu": "Jaka jest liczba sikhów w Japonii?"}
+{"query": {"agg": 0, "sel": 1, "conds": [[1, 0, "9,74"]]}, "table_id": "1-11884814-3", "nlu": "Jaki jest wynik kostiumu kąpielowego, gdy wywiad wynosił 9,74?"}
+{"query": {"agg": 0, "sel": 1, "conds": [[1, 0, "9,44"]]}, "table_id": "1-11884814-3", "nlu": "Który kraj uzyskał wynik rozmowy kwalifikacyjnej 9,40 i średnią 9,44?"}
+{"query": {"agg": 0, "sel": 8, "conds": [[0, 0, "50"]]}, "table_id": "1-11960407-5", "nlu": "Jaka jest data gry 50?"}
+{"query": {"agg": 0, "sel": 8, "conds": [[0, 0, "49"]]}, "table_id": "1-11960407-5", "nlu": "Kto zdobył najwięcej punktów w Game 49?"}
+{"query": {"agg": 0, "sel": 7, "conds": [[0, 0, "98–91"]]}, "table_id": "1-11964047-7", "nlu": "jakie są wszystkie rekordy z punktacją to w 98–91"}
+{"query": {"agg": 0, "sel": 8, "conds": [[0, 0, "0–2"]]}, "table_id": "1-11964047-5", "nlu": "jaki jest wynik, gdzie rekord wynosi 0–2"}
+{"query": {"agg": 0, "sel": 7, "conds": [[0, 0, "12 czerwca"]]}, "table_id": "1-11965481-13", "nlu": "Podaj liczbę gier w dniu 12 czerwca"}
+{"query": {"agg": 0, "sel": 3, "conds": [[2, 0, "poryesa"]]}, "table_id": "1-12030612-3", "nlu": "Jaka jest data odcinka napisanego przez Michaela Poryesa?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[6, 0, "& wilts to warminster"]]}, "table_id": "1-12043148-2", "nlu": "jaki jest ostatni rok, w którym glos & wilts to warminster?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[2, 0, "8,988"]]}, "table_id": "1-12094609-1", "nlu": "jakie są eliminacje, gdzie suknia wieczorowa wynosi 8,988"}
+{"query": {"agg": 0, "sel": 0, "conds": [[2, 0, "8,670"]]}, "table_id": "1-12094609-1", "nlu": "jaki jest strój kąpielowy, gdzie średnia wynosi 8,670"}
+{"query": {"agg": 0, "sel": 0, "conds": [[2, 0, "8,977"]]}, "table_id": "1-12094609-1", "nlu": "jaka jest suknia wieczorowa, w której eliminacje wynoszą 8,977"}
+{"query": {"agg": 0, "sel": 0, "conds": [[2, 0, "dakota"]]}, "table_id": "1-12094609-1", "nlu": "Jaka jest suknia wieczorowa, gdzie stanem jest Południowa Dakota?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[0, 0, "white?"]]}, "table_id": "1-12104319-1", "nlu": "Jakie są kobiece singli Marcus Ellis Gabrielle White?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[0, 0, "2008 roku?"]]}, "table_id": "1-12104319-1", "nlu": "Jakie są męskie single z 2008 roku?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[5, 0, "kapitał"]]}, "table_id": "1-12108-1", "nlu": "jaki jest pkb ( mld ) gdzie kapitał to kapitał?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[0, 0, "r87,00"]]}, "table_id": "1-1211545-2", "nlu": "Jak nazywa się plac, na którym opłata za ciężkie pojazdy z 2 osiami wynosi r87,00?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[0, 0, "r20.50"]]}, "table_id": "1-1211545-2", "nlu": "Jak nazywa się plac, na którym dla ciężkich pojazdów z 2 osiami widnieje r20.50?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[0, 0, "f3-3"]]}, "table_id": "1-12141496-1", "nlu": "Jakie jest maksymalne apogeum samosa f3-3?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[0, 0, "011a"]]}, "table_id": "1-12141496-1", "nlu": "Ile nazw altów ma 1964-011a?"}
+{"query": {"agg": 0, "sel": 4, "conds": [[6, 0, "06"]]}, "table_id": "1-1218784-1", "nlu": "Ile goli strzelono w sezonie 2005-06?"}
+{"query": {"agg": 0, "sel": 4, "conds": [[6, 0, "mcdonalda"]]}, "table_id": "1-1218784-1", "nlu": "Jaka jest ranga menedżera Roba Mcdonalda?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[0, 0, "lee jones"]]}, "table_id": "1-12310814-1", "nlu": "Jaki jest numer zamówienia piosenki pierwotnie wykonywanej przez Rickie Lee Jones?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[0, 0, "annę nalick"]]}, "table_id": "1-12310814-1", "nlu": "Jaka jest całkowita liczba piosenek pierwotnie wykonanych przez Annę Nalick?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[4, 0, "lee jones"]]}, "table_id": "1-12310814-1", "nlu": "Którą z piosenek oryginalnie wykonał Rickie Lee Jones?"}
+{"query": {"agg": 0, "sel": 4, "conds": [[0, 0, "pisowni jehojakin"]]}, "table_id": "1-1242447-1", "nlu": "Jakie są mocne strony angielskiego słowa pisowni jehojakin?"}
+{"query": {"agg": 0, "sel": 3, "conds": [[2, 0, "12,72 mln widzów w usa"]]}, "table_id": "1-12570759-2", "nlu": "Ile odcinków obejrzało 12,72 mln widzów w USA?"}
+{"query": {"agg": 0, "sel": 3, "conds": [[2, 0, "pam veasey"]]}, "table_id": "1-12570759-2", "nlu": "Ile milionów amerykańskich widzów obejrzało odcinek wyreżyserowany przez Roba Baileya i napisany przez Pam Veasey?"}
+{"query": {"agg": 0, "sel": 6, "conds": [[2, 0, "wyeliminowana?"]]}, "table_id": "1-1272844-2", "nlu": "Jak nazywa się odcinek, w którym Jenn zostaje wyeliminowana?"}
+{"query": {"agg": 0, "sel": 4, "conds": [[4, 0, "pozten?"]]}, "table_id": "1-12784134-24", "nlu": "Jaka jest idealna łodyga dla pozten?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[1, 0, "96"]]}, "table_id": "1-12792876-4", "nlu": "Wymień premię za przegraną 96 punktów"}
+{"query": {"agg": 0, "sel": 5, "conds": [[1, 0, "27"]]}, "table_id": "1-12792876-4", "nlu": "Nazwij przegrany bonus za 27"}
+{"query": {"agg": 0, "sel": 0, "conds": [[1, 0, "735"]]}, "table_id": "1-12834315-1", "nlu": "Jaka jest szczerbinka w modelu Cole nr. 735?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[1, 0, "osłonami dłoni"]]}, "table_id": "1-12834315-1", "nlu": "Jaki jest typ urządzeń wylotowych w modelach z okrągłymi osłonami dłoni?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[0, 0, "16 klubów zaangażowanych; co znalazłbyś dla zwycięzców z poprzedniej rundy?"]]}, "table_id": "1-1281200-1", "nlu": "Podczas pierwszej fazy część fazy i mając 16 klubów zaangażowanych; co znalazłbyś dla zwycięzców z poprzedniej rundy?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[5, 0, "libanu"]]}, "table_id": "1-12842068-1", "nlu": "Jaki był tytuł filmu z Libanu?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[2, 0, "korei południowej"]]}, "table_id": "1-13282157-3", "nlu": "Nazwij liczbę punktów dla Korei Południowej"}
+{"query": {"agg": 0, "sel": 4, "conds": [[4, 0, "4"]]}, "table_id": "1-13337302-16", "nlu": "Wymień rangi wszystkich zwolnień o wartości 4"}
+{"query": {"agg": 0, "sel": 1, "conds": [[0, 0, "mccrery'ego"]]}, "table_id": "1-1341453-20", "nlu": "Jakie były wyniki dla urzędującego Jima McCrery'ego?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[5, 0, "cooksey"]]}, "table_id": "1-1341453-20", "nlu": "Jaką dzielnicę reprezentuje John Cooksey?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[0, 0, "john porter?"]]}, "table_id": "1-1341453-15", "nlu": "W jakim okręgu został wybrany John Porter?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[0, 0, "jerry costello"]]}, "table_id": "1-1341453-15", "nlu": "Kim byli kandydaci w okręgu, w którym wygrał Jerry Costello?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[0, 0, "hinojosa"]]}, "table_id": "1-1341453-45", "nlu": "Z jakiej dzielnicy pochodzi ruben hinojosa?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[5, 0, "lampson"]]}, "table_id": "1-1341453-45", "nlu": "Z jakiej dzielnicy pochodzi Nick Lampson?"}
+{"query": {"agg": 0, "sel": 1, "conds": [[0, 0, "mcdermott został wybrany po raz pierwszy?"]]}, "table_id": "1-1341522-50", "nlu": "W którym roku urzędujący Jim Mcdermott został wybrany po raz pierwszy?"}
+{"query": {"agg": 0, "sel": 6, "conds": [[0, 0, "2005)"]]}, "table_id": "1-13416000-3", "nlu": "Ilu było mistrzów, gdy pierwszym kierowcą był hiroki yoshimoto (2005)?"}
+{"query": {"agg": 0, "sel": 3, "conds": [[3, 0, "kierowców, gdy ostatnim kierowcą z dnia 22 września 2013 r. był gianmarco raimondo?"]]}, "table_id": "1-13416000-3", "nlu": "Ile wpisów obejmuje wszystkich kierowców, gdy ostatnim kierowcą z dnia 22 września 2013 r. był gianmarco raimondo?"}
+{"query": {"agg": 0, "sel": 3, "conds": [[3, 0, "22 września 2013 r. był vladimir arabadzhiev ( 2010 )"]]}, "table_id": "1-13416000-3", "nlu": "Ilu było mistrzów, kiedy ostatnim kierowcą 22 września 2013 r. był vladimir arabadzhiev ( 2010 )?"}
+{"query": {"agg": 0, "sel": 3, "conds": [[3, 0, "kanady"]]}, "table_id": "1-13416000-3", "nlu": "Ile jest wpisów dla pierwszego kierowcy dla Kanady?"}
+{"query": {"agg": 0, "sel": 3, "conds": [[3, 0, "raimondo"]]}, "table_id": "1-13416000-3", "nlu": "Ilu było mistrzów, gdy ostatnim kierowcą był Gianmarco Raimondo?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[4, 0, "8"]]}, "table_id": "1-1341604-11", "nlu": "Wymień kandydatów do Gruzji 8"}
+{"query": {"agg": 0, "sel": 5, "conds": [[0, 0, "4"]]}, "table_id": "1-1341604-11", "nlu": "Nazwij imprezę gruzja 4"}
+{"query": {"agg": 0, "sel": 5, "conds": [[0, 0, "mcdonald"]]}, "table_id": "1-1341604-11", "nlu": "Nazwij dzielnicę dla larry mcdonald"}
+{"query": {"agg": 0, "sel": 1, "conds": [[4, 0, "7"]]}, "table_id": "1-1341604-10", "nlu": "Jaki jest wynik, że dzielnica to Floryda 7?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[4, 0, "1972 roku"]]}, "table_id": "1-1341640-11", "nlu": "Ilu kandydatów zostało wybranych po raz pierwszy w 1972 roku?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[0, 0, "hall"]]}, "table_id": "1-1341672-14", "nlu": "Nazwij dzielnicę dla Tim Lee Hall"}
+{"query": {"agg": 0, "sel": 5, "conds": [[4, 0, "15"]]}, "table_id": "1-1341672-14", "nlu": "Wymień kandydatów na Illinois 15"}
+{"query": {"agg": 0, "sel": 5, "conds": [[4, 0, "abner j. mykwa"]]}, "table_id": "1-1341672-14", "nlu": "Wymień pierwszego wybranego na abner j. mykwa"}
+{"query": {"agg": 0, "sel": 1, "conds": [[4, 0, "4"]]}, "table_id": "1-1342218-17", "nlu": "Kim byli kandydaci w okręgu wyborczym Kentucky 4?"}
+{"query": {"agg": 0, "sel": 1, "conds": [[4, 0, "2"]]}, "table_id": "1-1342218-17", "nlu": "Jaki był wynik w okręgu wyborczym Kentucky 2?"}
+{"query": {"agg": 0, "sel": 1, "conds": [[4, 0, "brenta spence'a"]]}, "table_id": "1-1342218-17", "nlu": "Jaki był wynik wyborów urzędującego Brenta Spence'a?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[4, 0, "6"]]}, "table_id": "1-1342233-24", "nlu": "Jacy kandydaci pochodzą z Mississippi 6?"}
+{"query": {"agg": 0, "sel": 3, "conds": [[4, 0, "1939,0"]]}, "table_id": "1-1342233-5", "nlu": "Która partia ma pierwszą wybraną liczbę większą niż 1939,0?"}
+{"query": {"agg": 0, "sel": 3, "conds": [[4, 0, "renominacji zostało wybranych jako pierwsze?"]]}, "table_id": "1-1342338-3", "nlu": "Ilu z utraconych wyników renominacji zostało wybranych jako pierwsze?"}
+{"query": {"agg": 0, "sel": 1, "conds": [[4, 0, "claude fuller został po raz pierwszy wybrany?"]]}, "table_id": "1-1342338-5", "nlu": "W którym roku urzędujący Claude Fuller został po raz pierwszy wybrany?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[4, 0, "4"]]}, "table_id": "1-1342359-39", "nlu": "Jaki jest wynik dla Karoliny Południowej 4?"}
+{"query": {"agg": 0, "sel": 1, "conds": [[0, 0, ".? welch"]]}, "table_id": "1-1342359-5", "nlu": "jaka jest dzielnica, w której operator zasiedziały jest Richardem J.? welch"}
+{"query": {"agg": 0, "sel": 5, "conds": [[4, 0, "demokratyczna"]]}, "table_id": "1-1342359-5", "nlu": "jaka jest dzielnica, w której partia jest demokratyczna?"}
+{"query": {"agg": 0, "sel": 1, "conds": [[4, 0, "evans"]]}, "table_id": "1-1342359-5", "nlu": "Jaka jest impreza, w której zasiedziałym jest William E. Evans"}
+{"query": {"agg": 0, "sel": 3, "conds": [[2, 0, "lawyer”"]]}, "table_id": "1-13477468-3", "nlu": "Jakim odcinkiem sezonu jest „The Family Lawyer”?"}
+{"query": {"agg": 0, "sel": 3, "conds": [[2, 0, "melmana"]]}, "table_id": "1-13477468-3", "nlu": "Jaka jest oryginalna data emisji odcinka wyreżyserowanego przez Jeffa Melmana?"}
+{"query": {"agg": 0, "sel": 6, "conds": [[4, 0, "driady?"]]}, "table_id": "1-13537940-1", "nlu": "Jaka data premiery dotyczyła Driady?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[0, 0, "sacramento"]]}, "table_id": "1-1356555-2", "nlu": "Jaki jest średni dochód gospodarstwa domowego z sacramento?"}
+{"query": {"agg": 0, "sel": 1, "conds": [[0, 0, "przypadku butte?"]]}, "table_id": "1-1356555-2", "nlu": "Jaka jest mediana dochodu gospodarstwa domowego w przypadku butte?"}
+{"query": {"agg": 0, "sel": 1, "conds": [[3, 0, "19. okręgu?"]]}, "table_id": "1-13618584-2", "nlu": "Ile jest wyników wyborów z 19. okręgu?"}
+{"query": {"agg": 0, "sel": 8, "conds": [[0, 0, "21"]]}, "table_id": "1-13619135-6", "nlu": "Ile meczów rozegrano, gdy rekord wynosił 26-21?"}
+{"query": {"agg": 0, "sel": 7, "conds": [[0, 0, "@ minnesota"]]}, "table_id": "1-13619135-7", "nlu": "Ile osób miało wysokie asysty @ minnesota?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[0, 0, "dziesiętnym"]]}, "table_id": "1-13636-1", "nlu": "co to jest tura kompletna z systemem liczbowym jako dziesiętnym?"}
+{"query": {"agg": 0, "sel": 3, "conds": [[3, 0, "4,7"]]}, "table_id": "1-13677808-1", "nlu": "Jaka jest ocena środowiskowa kraju z ogólną średnią oceną 4,7?"}
+{"query": {"agg": 0, "sel": 3, "conds": [[3, 0, "pf"]]}, "table_id": "1-1370559-1", "nlu": "Jaki jest najniższy PF?"}
+{"query": {"agg": 0, "sel": 10, "conds": [[2, 0, "colleen jones"]]}, "table_id": "1-1370559-1", "nlu": "Co to jest PA, gdy pominięciem jest Colleen Jones?"}
+{"query": {"agg": 0, "sel": 10, "conds": [[2, 0, "45"]]}, "table_id": "1-1370559-1", "nlu": "Jakie jest minimalne PA, gdy utracone końcówki wynosi 45?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[1, 0, "1"]]}, "table_id": "1-13758945-3", "nlu": "jaki jest klub, w którym bonus za przegraną wynosi 1?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[1, 0, "64"]]}, "table_id": "1-13758945-3", "nlu": "jakie są punkty za próby ukończenia 64 lat?"}
+{"query": {"agg": 0, "sel": 0, "conds": [[0, 0, "ue?"]]}, "table_id": "1-13770460-3", "nlu": "Jaki jest status ESP w UE?"}
+{"query": {"agg": 0, "sel": 4, "conds": [[1, 0, "punktów"]]}, "table_id": "1-13805773-2", "nlu": "Jaki jest tytuł piosenki, która otrzymała 259 punktów?"}
+{"query": {"agg": 0, "sel": 4, "conds": [[0, 0, "citv"]]}, "table_id": "1-1397655-1", "nlu": "ile to minimum dla citv"}
+{"query": {"agg": 0, "sel": 4, "conds": [[0, 0, "citv"]]}, "table_id": "1-1397655-1", "nlu": "gdzie znajduje się citv?"}
+{"query": {"agg": 0, "sel": 4, "conds": [[0, 0, "edmonton"]]}, "table_id": "1-1397655-1", "nlu": "która stacja znajduje się w edmonton?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[6, 0, "1989"]]}, "table_id": "1-1399994-5", "nlu": "Jaki był wynik meczu w 1989 roku?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[2, 0, "pfaff"]]}, "table_id": "1-1399994-5", "nlu": "W ilu lokalizacjach gościła Claudia Kohde-Kilsch Eva Pfaff?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[6, 0, "1984 roku"]]}, "table_id": "1-1399994-5", "nlu": "Kim byli wszyscy przeciwnicy w 1984 roku?"}
+{"query": {"agg": 0, "sel": 5, "conds": [[6, 0, "1988 roku"]]}, "table_id": "1-1399994-5", "nlu": "Ilu partnerów było w 1988 roku?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[4, 0, "botina"]]}, "table_id": "1-14038363-1", "nlu": "Jakie jest stanowisko Maksima Botina?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[4, 0, "bragina?"]]}, "table_id": "1-14038363-1", "nlu": "Jakie jest stanowisko Romana Bragina?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[3, 0, "whl)"]]}, "table_id": "1-14209245-9", "nlu": "Jakiej narodowości jest zawodnik, którego drużyna uczelni/junior/klub (liga) to Seattle Thunderbirds (WHL)?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[3, 0, "130"]]}, "table_id": "1-14209245-9", "nlu": "Jaka jest drużyna uczelni/junior/klub (liga) gracza, który wybrał numer 130?"}
+{"query": {"agg": 0, "sel": 1, "conds": [[3, 0, "2"]]}, "table_id": "1-14209245-9", "nlu": "Jaki jest numer wyboru w rundzie 2?"}
+{"query": {"agg": 0, "sel": 1, "conds": [[0, 0, "1985-86"]]}, "table_id": "1-14286908-1", "nlu": "Jak nazywa się szkoła, w której rok ostatniej wygranej to 1985-86?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[3, 0, "94 na 32"]]}, "table_id": "1-14323347-1", "nlu": "Nazwij drużynę 1993-94 na 32"}
+{"query": {"agg": 0, "sel": 2, "conds": [[3, 0, "grane"]]}, "table_id": "1-14323347-1", "nlu": "Nazwij najczęściej grane"}
+{"query": {"agg": 0, "sel": 2, "conds": [[3, 0, "115 punktów"]]}, "table_id": "1-14323347-1", "nlu": "Wymień łączną liczbę lat 1992-93 za 115 punktów"}
+{"query": {"agg": 0, "sel": 2, "conds": [[3, 0, "grane"]]}, "table_id": "1-14323347-1", "nlu": "Nazwij najczęściej grane"}
+{"query": {"agg": 0, "sel": 0, "conds": [[0, 0, "przyłożeń"]]}, "table_id": "1-14342480-6", "nlu": "Wymień najmniej przyłożeń"}
+{"query": {"agg": 0, "sel": 3, "conds": [[0, 0, "beckera"]]}, "table_id": "1-14342592-8", "nlu": "Wymień najwięcej przyłożeń dla Beckera"}
+{"query": {"agg": 0, "sel": 0, "conds": [[0, 0, "strażnika"]]}, "table_id": "1-14342592-8", "nlu": "Nazwij dodatkowe punkty dla lewego strażnika"}
+{"query": {"agg": 0, "sel": 0, "conds": [[0, 0, "19 dodatkowych punktów"]]}, "table_id": "1-14342592-8", "nlu": "Podaj liczbę rzutów z pola za 19 dodatkowych punktów"}
+{"query": {"agg": 0, "sel": 0, "conds": [[0, 0, "norcross"]]}, "table_id": "1-14342592-8", "nlu": "Wymień najwięcej przyłożeń dla norcross"}
+{"query": {"agg": 0, "sel": 0, "conds": [[2, 0, "sportowca"]]}, "table_id": "1-14345690-4", "nlu": "Podaj numer celebryty dla sportowca"}
+{"query": {"agg": 0, "sel": 0, "conds": [[1, 0, "broncos"]]}, "table_id": "1-14433719-1", "nlu": "O której godzinie we wschodnim czasie standardowym odbywał się mecz w Denver Broncos?"}
+{"query": {"agg": 0, "sel": 4, "conds": [[4, 0, "cmd.exe / command.com dla echa powłoki uniksowej?"]]}, "table_id": "1-14465871-1", "nlu": "Jakie są wszystkie wartości CMD.EXE / COMMAND.COM dla echa powłoki uniksowej?"}
+{"query": {"agg": 0, "sel": 4, "conds": [[4, 0, "cpi, copy, cp, jakie są wszystkie odpowiadające opisy."]]}, "table_id": "1-14465871-1", "nlu": "Jeśli Powershell (alias) to cpi, copy, cp, jakie są wszystkie odpowiadające opisy."}
+{"query": {"agg": 0, "sel": 2, "conds": [[2, 0, "2053 gospodarstw domowych?"]]}, "table_id": "1-1447085-1", "nlu": "W jakim hrabstwie jest 2053 gospodarstw domowych?"}
+{"query": {"agg": 0, "sel": 1, "conds": [[2, 0, "71?"]]}, "table_id": "1-1447085-1", "nlu": "Które miejsce ma pozycję 71?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[2, 0, "woodside?"]]}, "table_id": "1-1447085-1", "nlu": "Jaki jest średni dochód gospodarstwa domowego w Woodside?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[2, 0, "fayette?"]]}, "table_id": "1-1447085-1", "nlu": "Jaki jest dochód na mieszkańca w hrabstwie Fayette?"}
+{"query": {"agg": 0, "sel": 2, "conds": [[1, 0, "populacji?"]]}, "table_id": "1-1449169-1", "nlu": "Jaka jest pozycja pospolita Galliate w populacji?"}
